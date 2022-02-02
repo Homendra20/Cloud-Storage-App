@@ -1,0 +1,54 @@
+.container{
+    width: 375px;
+    height: 812px;
+    
+}
+
+
+.profile{
+    width: 101px;
+height: 46px;
+color: rgb(36, 40, 51);
+font-size: 34px;
+font-family: AvenirNext-DemiBold;
+font-weight: 600;
+opacity: 100%;
+transform: rotate(0deg) translateX(25px) translateY(90px);
+line-height: normal;
+text-transform: none;
+text-decoration: none;
+text-align: left;
+letter-spacing: auto;
+}
+
+.storage{
+    width: 160px;
+height: 22px;
+color: rgb(36, 40, 51);
+font-size: 30px;
+font-family: AvenirNext-Medium;
+font-weight: 500;
+transform: rotate(0deg) translateX(41px) translateY(436px);
+opacity: 100%;
+line-height: normal;
+text-transform: none;
+text-decoration: none;
+text-align: left;
+letter-spacing: auto;
+} 
+.store{
+    width: 325px;
+height: 52px;
+/* background: rgb(245, 247, 252); */
+border-radius: 7px;
+margin-top: 20px;
+margin-left: 80px;
+}
+.nav-link{
+    display: inline-block;
+   
+    
+}
+.footerr{
+    width: 100%;
+}

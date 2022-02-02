@@ -1,0 +1,17 @@
+.container{
+    
+        width: 375px;
+        height: 812px;
+        
+     
+}
+#storageimage{
+    margin-top: 100px;
+}
+.nav-link{
+    display: inline-block;
+    /* margin-bottom: -100px; */
+}
+.img-22{
+ transform: rotate(180deg);
+}

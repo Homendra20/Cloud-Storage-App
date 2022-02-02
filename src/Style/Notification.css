@@ -1,0 +1,33 @@
+/* *{
+    margin: 0;
+    padding: 0;
+} */
+.container{
+    width: 375px;
+    height: 812px;
+    
+}
+.img{
+    width: 375px;
+    height: 700px;
+    fill: #ffffff;
+    margin-top: 100px;
+}
+
+
+.footer{
+    width: 374px;
+height: 63px;
+background: rgb(255, 255, 255);
+box-shadow: 0px 4px 14px 0px rgba(166, 179, 194, 0.3);
+border-radius: 0px;
+transform: rotate(0deg) translateX(76px) translateY(729px);
+opacity: 100%; 
+margin-top: -330px;
+margin-left: -87px;
+}
+.nav-link{
+    display: inline-block;
+    width: 72px;
+
+}

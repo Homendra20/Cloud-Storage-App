@@ -1,0 +1,22 @@
+.statusBarbg{
+    width: 375px;
+height: 72px;
+background: rgb(137, 170, 250);
+transform: rotate(0deg) translateX(0px) translateY(0px);
+opacity: 100%;
+}
+.statusbar{
+    width: 375px;
+height: 44px;
+background: rgb(52, 80, 149);
+opacity: 100%;
+}
+.local-data{
+    margin-top: 80px;
+}
+#search{
+    margin-top: 60px;
+}
+#local{
+    margin-top: 30px;
+}
